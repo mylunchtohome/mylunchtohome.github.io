@@ -30,6 +30,8 @@ p {
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
 }
+
+          
 /*---------------------------------------
    COMMON STYLES             
 -----------------------------------------*/
@@ -89,6 +91,8 @@ p {
     .navbar-default {
         background-color: transparent;
     }
+
+
     .navbar-default .navbar-nav>li>a {
         color: #B5B5B5;
         font-family: 'Raleway', sans-serif;
