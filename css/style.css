@@ -1076,11 +1076,11 @@ select:-webkit-autofill {
     animation-fill-mode: both;
 }
 .spinner .bounce1 {
-    -webkit-animation-delay: -0.32s;
+    -webkit-animation-delay: -0.14s;
     animation-delay: -0.32s;
 }
 .spinner .bounce2 {
-    -webkit-animation-delay: -0.16s;
+    -webkit-animation-delay: -0.15;
     animation-delay: -0.16s;
 }
 @-webkit-keyframes bouncedelay {
