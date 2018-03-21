@@ -163,14 +163,19 @@ p {
     text-align: right;
 }
 .home-iphone img{
-    width: 350px;
-    height: 200px;
-    margin-left: -150px;
+    width: 145%;
+    height: 524px;
+    position: absolute;
+    padding-top: 13%;
+    margin-top:-94%;
+    margin-left: -126%; 
+
 }
 
 @media (max-width: 768px){
     .home-iphone{
         display: none;
+        width: 100%;
     }
     .home_text{
         text-align: center;

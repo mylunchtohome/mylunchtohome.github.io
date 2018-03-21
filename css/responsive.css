@@ -31,6 +31,7 @@
     .about_phone img {
         width: 100%;
     }
+   
 }
 /* This Css is for tablet */
 
@@ -61,6 +62,7 @@
     .video {
         padding-top: 50px;
     }
+   
 }
 /* This Css is for Medium Deviced */
 
@@ -87,6 +89,7 @@
     .video {
         padding-top: 00px;
     }
+   
 }
 /* This Css is for large Deviced */
 
@@ -110,4 +113,5 @@
     .video {
         padding-top: 0px;
     }
+  
 }
